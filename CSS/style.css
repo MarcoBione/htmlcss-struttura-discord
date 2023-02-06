@@ -44,6 +44,7 @@ li{
     background-size: cover;
     background-position: center;
     height: 625px;
+    align-items: center;
 }
 
 a{
@@ -75,5 +76,24 @@ nav, .header-about, .links{
     justify-content: space-between;
 }
 
+.header-about{
+    justify-content: center;
+}
+
+.main-title{
+    display: block;
+    position: relative;
+    font-size: 3rem;
+}
+
+div > p {
+    text-align: center;
+}
 
 /* ======END HEADER====== */
+
+/* ======MAIN====== */
+
+
+
+/* ======END MAIN====== */

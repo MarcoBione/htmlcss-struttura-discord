@@ -70,7 +70,8 @@ nav, .header-about, .links{
     align-items: center;
 }
 
-li{
+.nav-menu{
+    width: 500px;
     justify-content: space-between;
 }
 

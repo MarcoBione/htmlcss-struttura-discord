@@ -69,7 +69,7 @@ header{
     background-color: var(--bg-header);
 }
 
-nav, .header-about, .links{
+nav, .header-about, .links, article{
     max-width: 1200px;
     margin: 0 auto;
 }
@@ -129,6 +129,13 @@ div > p {
 
 /* ======MAIN====== */
 
-
+.format{
+    height: 700px;
+}
+.images{
+    position: relative;
+    align-self: center;
+    width: 20px;
+}
 
 /* ======END MAIN====== */

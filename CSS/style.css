@@ -51,6 +51,14 @@ a{
     text-decoration: none;
 }
 
+.color-nav-links{
+    color: var(--bg-body);
+}
+
+.text{
+    color: var(--bg-body);
+}
+
 
 /* END GENERAL */
 

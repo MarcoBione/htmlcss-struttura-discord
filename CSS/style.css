@@ -134,7 +134,12 @@ div > p {
 .images{
     position: relative;
     align-self: center;
-    width: 20px;
 }
+
+img{
+    width: 500px;
+}
+
+
 
 /* ======END MAIN====== */

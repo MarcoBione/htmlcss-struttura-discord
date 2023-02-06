@@ -35,6 +35,11 @@ li{
     flex-flow: row wrap;
 }
 
+.d-flex-reverse{
+    display: flex;
+    flex-flow: row-reverse wrap;
+}
+
 .padding{
     padding:10px;
 }
@@ -95,7 +100,7 @@ nav, .header-about, .links, article{
 .main-title{
     display: block;
     position: relative;
-    font-size: 3rem;
+    font-size: 4rem;
 }
 
 div > p {
@@ -130,16 +135,30 @@ div > p {
 
 .format{
     height: 700px;
+    max-width: 1200px;
+
 }
 .images{
     position: relative;
-    align-self: center;
+    justify-content: center;
+    width: 60%;
 }
 
-img{
-    width: 500px;
+.info-box{
+    max-width: 40%;
+    align-content: center;
 }
+
+h2{
+    align-items: center;
+    font-size: 3rem;
+
+}
+
 
 
 
 /* ======END MAIN====== */
+
+
+

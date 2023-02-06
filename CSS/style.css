@@ -71,7 +71,7 @@ nav, .header-about, .links{
     align-items: center;
 }
 
-.nav-menu{
+.nav-menu, .links{
     width: 500px;
     justify-content: space-between;
 }
@@ -89,6 +89,7 @@ nav, .header-about, .links{
 div > p {
     text-align: center;
 }
+
 
 /* ======END HEADER====== */
 

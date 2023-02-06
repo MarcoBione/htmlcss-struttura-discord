@@ -52,14 +52,13 @@ a{
     color: #000000;
 }
 
-.color-nav-links{
+.color-nav-links, .text{
     color: var(--bg-body);
 }
 
-.text{
-    color: var(--bg-body);
+.bg-articles{
+    background-color: var(--bg-main-sections);
 }
-
 
 /* END GENERAL */
 

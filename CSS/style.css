@@ -6,5 +6,19 @@
     box-sizing: border-box;
 }
 
+/* COLOR PALETTE */
+:root{
+    --bg-header: #255EE9;
+    --bg-footer: #23272A;
+    --section-text: #111111;
+    --bg-body: #FFFFFF;
+    --bg-main-sections: #F6F6F6;
+    --button: #7289DA;
+}
+/* END COLOR PALETTE */
+
+
+
+
 
 /* END GENERAL */

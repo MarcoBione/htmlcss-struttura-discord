@@ -49,6 +49,7 @@ li{
 
 a{
     text-decoration: none;
+    color: #000000;
 }
 
 .color-nav-links{
@@ -104,6 +105,14 @@ div > p {
 
 .button{
     width: 235px;
+}
+
+.button-default-style{
+    text-align: center;
+    border-radius: 25px;
+    height: 40px;
+    background-color: #FFFFFF;
+    
 }
 
 

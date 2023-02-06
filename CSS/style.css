@@ -89,6 +89,10 @@ nav, .header-about, .links{
     justify-content: center;
 }
 
+.paragraph{
+    max-width: 680px;
+}
+
 .main-title{
     display: block;
     position: relative;

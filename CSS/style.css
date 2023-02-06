@@ -35,7 +35,12 @@ li{
     flex-flow: row wrap;
 }
 
-
+.box{
+    background-image: url('../discord-assets/jumbo.png');
+    background-size: cover;
+    background-position: center;
+    height: 625px;
+}
 
 
 /* END GENERAL */

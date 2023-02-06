@@ -18,8 +18,39 @@
 }
 /* END COLOR PALETTE */
 
+.debug{
+    border: 1px solid black;
+}
+
+.container{
+    background-color: var(--bg-body);
+}
+
+li{
+    list-style: none;
+}
+
+.d-flex{
+    display: flex;
+    flex-flow: row wrap;
+}
 
 
 
 
 /* END GENERAL */
+
+/* ======HEADER====== */
+
+header{
+    background-color: var(--bg-header);
+}
+
+nav, .header-about, .links{
+    max-width: 1200px;
+    margin: 0 auto;;
+}
+
+
+
+/* ======END HEADER====== */

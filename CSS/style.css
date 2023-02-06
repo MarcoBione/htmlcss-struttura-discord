@@ -22,6 +22,14 @@
     border: 1px solid black;
 }
 
+.line-odd{
+    background-color: var(--bg-body);
+}
+
+.line-even{
+    background-color: var(--bg-main-sections);
+}
+
 .container{
     background-color: var(--bg-body);
 }
